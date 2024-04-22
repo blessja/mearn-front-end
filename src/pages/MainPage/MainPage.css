@@ -1,0 +1,49 @@
+.bg-overlay {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://miro.medium.com/v2/resize:fit:720/format:webp/0*zMnoWjUkgAxR4LcZ");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 450px;
+  padding-top: 50px;
+}
+.btn_link {
+  border-radius: 10px;
+  border: 0.7px solid #a9aeb8;
+  background: #fff;
+}
+
+.input-text {
+  outline: none;
+  border: none;
+}
+
+.group {
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: #fff;
+  border: 0.8px solid #ffff;
+  font-size: 12px;
+}
+
+.text-recommended {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+
+.following {
+  background: #edeef0;
+}
+
+@media screen and (min-width: 992px) {
+  .background_c {
+    justify-content: end;
+  }
+}

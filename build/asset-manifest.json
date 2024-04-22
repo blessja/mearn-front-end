@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbff3444.css",
+    "main.js": "/static/js/main.bede4a6e.js",
+    "static/media/car.jpg": "/static/media/car.2a790c4f9d4ecb54f1ea.jpg",
+    "static/media/nature.jpg": "/static/media/nature.1d01b5de3ffd559cc143.jpg",
+    "static/media/wood.jpg": "/static/media/wood.ca045a47cdd03b6cfc49.jpg",
+    "static/media/pro_pic.png": "/static/media/pro_pic.b20121d29201841c23ab.png",
+    "static/media/logo.png": "/static/media/logo.d97e62abb9b84a1d6b89.png",
+    "static/media/atg_illustration.png": "/static/media/atg_illustration.63baf7f337a74f9e5097.png",
+    "static/media/email.svg": "/static/media/email.172a6cbfba936d06add502de4d07b39d.svg",
+    "static/media/green_check.svg": "/static/media/green_check.d3ce2feccb66afb5af9dea7a6fc1cb2b.svg",
+    "index.html": "/index.html",
+    "static/media/user.svg": "/static/media/user.5234d6211d575dbf8f6f0ba6747268c7.svg",
+    "main.cbff3444.css.map": "/static/css/main.cbff3444.css.map",
+    "main.bede4a6e.js.map": "/static/js/main.bede4a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbff3444.css",
+    "static/js/main.bede4a6e.js"
+  ]
+}
